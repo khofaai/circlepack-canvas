@@ -1,0 +1,12 @@
+{
+  "name": "circlepack-canvas",
+  "version": "0.1.0-alpha.1",
+  "main": "./src/circlepack-canvas.js",
+  "author": {
+    "name": "Anas El Alami"
+  },
+  "dependencies": {
+    "d3": "3.5.*"
+  },
+  "description": "circle packing based on cavas"
+}
